@@ -231,6 +231,14 @@ PrefabInstance:
       propertyPath: airJumps
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1416440221673314200, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
+      propertyPath: doubleJumps
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1416440221673314200, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
+      propertyPath: crouchSpeedMultiplier
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7938481287298227624, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.007
@@ -270,6 +278,22 @@ PrefabInstance:
     - target: {fileID: 7938481287298227624, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8011417026653906170, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
+      propertyPath: m_Size.x
+      value: 0.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 8011417026653906170, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
+      propertyPath: m_Size.y
+      value: 0.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8011417026653906170, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 8011417026653906170, guid: d99c08955c8b88343a1696bc46f29e31, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
